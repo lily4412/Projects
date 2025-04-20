@@ -1,1 +1,1 @@
-NotePad using tkinter in Python
+Notepad using tkinter in Python
