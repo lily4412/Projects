@@ -84,14 +84,26 @@ root = tkinter.Tk()
 root.title("COLORGAME")
 
 # set the size
-root.geometry("375x200")
+root.geometry("400x300")
 
 # add an instructions label
-instructions = tkinter.Label(root, text = "Type in the colour"
-						"of the words, and not the word text!",
+instructions = tkinter.Label(root, text = "Type in the colour "
+						            "of the words, and not the word text!", 
 									font = ('Helvetica', 12))
 instructions.pack() 
 
+#Instructions for the colors to type
+colors1 = tkinter.Label(root, text = "List of colors",
+                                    font = ('Helvetica', 12))
+colors1.pack()
+
+colors2 = tkinter.Label(root, text = "Red, Blue, Green, Pink, Black",
+                                    font = ('Helvetica', 12))
+colors2.pack()
+
+colors3 = tkinter.Label(root, text = "Yellow, Orange, White, Purple, Brown",
+                                    font = ('Helvetica', 12))
+colors3.pack()
 # add a score label
 scoreLabel = tkinter.Label(root, text = "Press enter to start",
 									font = ('Helvetica', 12))
