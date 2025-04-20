@@ -6,7 +6,7 @@
   - Web development  
   - App development  
   - Data Structures & Algorithms  
-  - AI/ML (if applicable)  
+  - AI/ML
 - Projects range from beginner to advanced levels  
 - Aims to reinforce concepts and boost practical coding skills  
 - Helps in understanding real-world application of technologies and frameworks  
