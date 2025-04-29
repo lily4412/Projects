@@ -4,7 +4,7 @@
 
 This project is a simple **Guess the Number** game implemented in Python. The goal is to understand fundamental programming concepts by building an interactive console-based game.
 
-> To try the game, click the **Run** button in your environment. The project may take a few seconds to load initially.
+> To try the game, click the **Run** button in your environment.
 
 ## Game Rules
 
